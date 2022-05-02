@@ -1,7 +1,0 @@
-# Codegen
-index.d.ts
-android/rnuc.yaml
-ios/ConfigValues.h
-override.js
-index.web.js
-!src/test_outputs/*
