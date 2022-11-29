@@ -1,7 +1,7 @@
 {
-  "name": "react-native-ultimate-config",
+  "name": "@quinaryio/react-native-ultimate-config",
   "title": "React Native Ultimate Config",
-  "version": "3.4.2",
+  "version": "3.4.3",
   "description": "Config that works",
   "main": "index.js",
   "react-native": "index.js",
